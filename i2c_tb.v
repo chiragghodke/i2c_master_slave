@@ -1,4 +1,4 @@
-`timescale 1000ns / 1ps
+`timescale 1us / 1ps
 
 module i2c_tb;
 
